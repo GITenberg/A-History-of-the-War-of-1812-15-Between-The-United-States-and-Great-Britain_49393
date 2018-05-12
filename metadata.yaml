@@ -1,4 +1,8 @@
 _repo: A-History-of-the-War-of-1812-15-Between-The-United-States-and-Great-Britain_49393
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Johnson, Rossiter
@@ -8,6 +12,8 @@ creator:
     gutenberg_agent_id: '3308'
     url: http://www.gutenberg.org/2009/agents/3308
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49393#A-History-of-the-War-of-1812-15-Between-The-United-States-and-Great-Britain
 gutenberg_issued: '2015-07-04'
 gutenberg_type: Text
 identifiers:
